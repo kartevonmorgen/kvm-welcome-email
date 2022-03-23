@@ -9,3 +9,4 @@ You can render the API documentation e.g. with the swagger editor:
 - go to `File` -> `import URL`
 - enter `https://raw.githubusercontent.com/magdaddy/kvm-welcome-email/master/openapi.yaml`
 
+This Microservice runns on https://kvmmail.shiv.uber.space/ for Kartevonmorgen.org
